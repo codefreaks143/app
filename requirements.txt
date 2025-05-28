@@ -2,4 +2,4 @@ flask
 tensorflow
 librosa
 numpy
-gunicorn
+
